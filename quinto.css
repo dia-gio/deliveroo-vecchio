@@ -1,0 +1,279 @@
+.logo{
+    height: 35px;
+}
+.imgbici{
+    background-image: url("https://cwa.roocdn.com/_next/static/media/campaign.df58721f.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+    
+}
+.margLeftNav{
+    margin-left:15px
+}
+.offcanvas-header{
+    border-bottom: 1px solid lightgray;
+}
+.iconVerde{
+    color: #00ccbc;
+    height: 20px;
+    width: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.btnNavBar{
+    background-color: white;
+    height: 100%;
+    border-radius: 5px;
+}
+.BackPrimo{
+    background-color: #d0eb99;
+}
+.inFondo{
+    display: flex;
+    align-items:flex-end;
+    height: 100%;
+}
+.centro{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    height: 100%;
+}
+.margIn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 50px;
+
+}
+.testoImg{
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 28px;
+    text-align: center;
+}
+.backSec{
+    background-color: #ffeae4;
+}
+.descImgSec{
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.imgSec1{
+    background-image: url("https://f.roocdn.com/images/menus/64574/header-image.jpg?width=446.52497589588165&height=223.92498791217804&auto=webp&format=jpg&fit=crop&v=1547634455");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgSec2{
+    background-image: url("https://f.roocdn.com/images/menus/213898/header-image.jpg?width=446.52497589588165&height=223.92498791217804&auto=webp&format=jpg&fit=crop&v=1573558821");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgSec3{
+    background-image: url("https://f.roocdn.com/images/menus/71232/header-image.jpg?width=446.52497589588165&height=223.92498791217804&auto=webp&format=jpg&fit=crop&v=1615219760");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgSec4{
+    background-image: url("https://f.roocdn.com/images/menus/14480/header-image.jpg?width=446.52497589588165&height=223.92498791217804&auto=webp&format=jpg&fit=crop&v=1537967434");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgSec5{
+    background-image: url("https://f.roocdn.com/images/menus/67494/header-image.jpg?width=446.52497589588165&height=223.92498791217804&auto=webp&format=jpg&fit=crop&v=1610355421");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgSec6{
+    background-image: url("https://f.roocdn.com/images/menus/63776/header-image.jpg?width=446.52497589588165&height=223.92498791217804&auto=webp&format=jpg&fit=crop&v=1556873766");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgPrimo4{
+    background-image: url("https://f.roocdn.com/images/menu_tags/293/menu-tag-image.jpg?width=544.5749706029892&height=198.74998927116394&auto=webp&format=jpg&fit=crop&v=1547125827");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgPrimo3{
+    background-image: url("https://f.roocdn.com/images/menu_tags/291/menu-tag-image.jpg?width=836.074954867363&height=198.74998927116394&auto=webp&format=jpg&fit=crop&v=1547125828");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgPrimo2{
+    background-image: url("https://f.roocdn.com/images/menu_tags/328/menu-tag-image.jpg?width=564.4499695301056&height=198.74998927116394&auto=webp&format=jpg&fit=crop&v=1548761261");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+.imgPrimo1{
+    background-image: url("https://f.roocdn.com/images/menu_tags/288/menu-tag-image.jpg?width=564.4499695301056&height=198.74998927116394&auto=webp&format=jpg&fit=crop&v=1648802301");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+body{
+    font-family: plex-sans,Helvetica Neue,Helvetica,Arial,Microsoft YaHei,å¾®è½¯é›…é»‘ä½“,Hiragino Sans GB,å†¬é’é»‘ä½“,sans-serif;
+}
+.BotMarg{
+    padding-bottom: 30px;
+}
+.descImgVer{
+    margin-bottom: 30px;
+    color:#00a396
+}
+.margTerzo{
+    display: inline-flex;
+
+}
+.campi{
+    padding: 5px;
+    background-color: #f9fafa;
+    font-weight: bold;
+    display: inline;
+    border-radius: 5px;
+    font-size: 25px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+
+}
+.backFooter{
+    background-color: #2e3333;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.titFot{
+    font-weight: bold;
+
+}
+.backCol{
+    background: hsla(0,0%,100%,.1);
+    color: white;
+    padding: 25px;
+    height: 100%;
+}
+.margFot{
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+.descFot{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 15px;
+}
+.descImg{
+    margin-top: 7px;
+    margin-bottom: 7px;
+
+}
+.margBt{
+    margin-bottom: 10px;
+}
+.titolo{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.btnCerca{
+    background-color: #00ccbc;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconInst{
+    color: white;
+    width:20px;
+    height:20px;
+    margin-left: 10px;
+}
+.iconInst:hover{
+    color: palevioletred;
+}
+.iconTwi{
+    color: white;
+    width:20px;
+    height:20px;
+    margin-left: 10px;
+}
+.iconTwi:hover{
+    color: lightblue;
+}
+.secPart{
+    margin-top: 20px;
+    
+}
+.margOff{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.iconDown{
+    height: 40px;
+}
+
+.selOff{
+    height: 50px;
+}
+.iconFac{
+    color: white;
+    width:20px;
+    height:20px;
+}
+.iconFac:hover{
+    color: blue;
+}
+.gInCentro{
+    display: flex;
+    justify-content: flex-end;
+    color: #585c5c;
+    font-size: 14px;
+}
+.gForm{
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 25px;
+
+}
+.cont{
+    padding-left: 3%;
+    padding-right: 3%
+}
+.titoloPrimo{
+    color:#440063;
+
+}
+.pos{
+    position: relative;
+}
+.marg{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.BackPrimo::before{
+    content: "";
+    width: 100%;
+    height: 256px;
+    position: absolute;
+    right: 0;
+    background-color: #00ccbc;
+    transform: skewY(-4deg);
+    transform-origin: left;
+}
